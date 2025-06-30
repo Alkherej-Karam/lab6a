@@ -10,6 +10,6 @@
     "",
     ""
   ],
-  "playerTurnCount": 6,
-  "gameOver": true
+  "playerTurnCount": 0,
+  "gameOver": false
 }
