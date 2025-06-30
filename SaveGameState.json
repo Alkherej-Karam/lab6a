@@ -1,14 +1,14 @@
 {
   "board": [
-    "X",
-    "X",
-    "X",
     "",
-    "O",
     "",
-    "O",
     "",
-    "O"
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
   ],
   "playerTurnCount": 6,
   "gameOver": true
