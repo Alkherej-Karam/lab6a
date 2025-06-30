@@ -2,3 +2,4 @@
 
 
 LINK: https://alkherej-karam.github.io/lab6a/
+Open in chrome
