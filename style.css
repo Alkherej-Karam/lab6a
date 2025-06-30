@@ -1,0 +1,48 @@
+td {
+  border: 2px solid #444;
+  height: 55px;
+  width: 55px;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+input[type="button"]#one,
+input[type="button"]#two,
+input[type="button"]#three,
+input[type="button"]#four,
+input[type="button"]#five,
+input[type="button"]#six,
+input[type="button"]#seven,
+input[type="button"]#eight,
+input[type="button"]#nine {
+  background-color: #ffffff;
+  width: 100%;
+  height: 100%;
+  font-size: 24px;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+input[type="button"]#one:hover,
+input[type="button"]#two:hover,
+input[type="button"]#three:hover,
+input[type="button"]#four:hover,
+input[type="button"]#five:hover,
+input[type="button"]#six:hover,
+input[type="button"]#seven:hover,
+input[type="button"]#eight:hover,
+input[type="button"]#nine:hover {
+  background-color: #e0f7fa;
+}
+
+h1 {
+  font-family: 'Segoe UI', sans-serif;
+  color: #333;
+}
+
+table {
+  margin-top: 10px;
+  border-collapse: collapse;
+}
